@@ -1,4 +1,11 @@
-
+<p align="left">
+    <a href="#">
+        <img width="28%" src="./assets/images/particle_circle.gif" alt="" />
+    </a>
+    <a href="#">
+        <img width="50%" src="./assets/images/atlantis.gif" alt="" />
+    </a>
+</p>
 ---
 ### :computer: Statistics :
 ---
