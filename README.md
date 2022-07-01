@@ -1,3 +1,9 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abraim01&show_icons=true&theme=dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abraim01&repo=RealEstate)](https://github.com/Abraim01/RealEstate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abraim01&repo=Portfolio)](https://github.com/Abraim01/Portfolio)
+
+
 ### Hi there 👋
 
 <!--
