@@ -1,7 +1,14 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abraim01&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abraim01&repo=RealEstate)](https://github.com/Abraim01/RealEstate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abraim01&repo=Portfolio)](https://github.com/Abraim01/Portfolio)
+---
+### :computer: Statistics :
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abraim01&show_icons=true&&theme=tokyonight&hide_border=true)
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abraim01&repo=RealEstate&theme=tokyonight&hide_border=true)](https://github.com/Abraim01/RealEstate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abraim01&repo=Portfolio&theme=tokyonight&hide_border=true)](https://github.com/Abraim01/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abraim01&repo=ui06&theme=tokyonight&hide_border=true)](https://github.com/Abraim01/ui06)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abraim01&repo=lib-bahja&theme=tokyonight&hide_border=true)](https://github.com/Abraim01/lib-bahja)
+---
 
 
 ### Hi there 👋
