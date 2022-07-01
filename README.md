@@ -10,11 +10,11 @@
 ---
 
 <a href="https://github.com/Abraim01?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abraim01&line_height=40&show_icons=true&theme=tokyonight&hide_border=true">
+ <img align="center", width = 420px src="https://github-readme-stats.vercel.app/api?username=Abraim01&line_height=40&show_icons=true&theme=tokyonight&hide_border=true">
 </a>
 
 <a href="https://github.com/Abraim01?tab=repositories">
-  <img align="center", width = 350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraim01&&theme=tokyonight&hide_border=true"/>
+  <img align="center", width = 297px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraim01&&theme=tokyonight&hide_border=true"/>
 </a>
 
 
