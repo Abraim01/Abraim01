@@ -9,11 +9,14 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abraim01&show_icons=true&&theme=tokyonight&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abraim01&theme=tokyonight&hide_border=true)](https://github.com/Abraim01/github-readme-stats)
----
+<a href="https://github.com/Abraim01?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abraim01&line_height=40&show_icons=true&theme=tokyonight&hide_border=true">
+</a>
 
----
+<a href="https://github.com/Abraim01?tab=repositories">
+  <img align="center", width = 350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraim01&&theme=tokyonight&hide_border=true"/>
+</a>
+
 
 ### :arrow_forward: Projects :
 
